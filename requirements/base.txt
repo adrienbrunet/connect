@@ -8,6 +8,7 @@ dj-database-url==0.3.0 # Use DB_URL environment variable
 PyYAML==3.11 # Fixtures
 
 # Third Party Plugins
+django-classy-settings
 django-endless-pagination==2.0
 django-gravatar2==1.1.3
 django-parsley
